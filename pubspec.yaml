@@ -7,6 +7,7 @@ dependencies:
   args: any
   dartmixins: any
   jaded: any
+  json: any
   json_client: any
   unittest: any
 
