@@ -1,7 +1,6 @@
 library express;
 
 import "dart:io";
-import "dart:json" as JSON;
 import "dart:collection";
 import "dart:typed_data";
 import "dart:async";
