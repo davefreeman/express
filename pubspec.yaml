@@ -6,7 +6,8 @@ homepage: https://github.com/dartist/express
 dependencies:
   args: any
   dartmixins: any
-  jaded: any
+  jaded:
+    git: https://github.com/davefreeman/jaded.git
   json: any
   json_client: any
   unittest: any
